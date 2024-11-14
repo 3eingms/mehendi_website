@@ -53,6 +53,7 @@
 
                 .hamburger{
                     width: 35px;
+                    cursor: pointer;
                 }
 
                 .close{
