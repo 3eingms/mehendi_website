@@ -143,7 +143,9 @@
                 align-items: center;
                 gap: 0.3rem;
                 transition: all 0.5s ease-in;
-
+                a{
+                    color: #6B4423;
+                }
 
                 img{
                     width: 25px;
